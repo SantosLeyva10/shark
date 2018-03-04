@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Próximamente Shark Desarrollos - Desarrollo Web y móvil</title>		
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		
+		<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js'></script>
+		<script type='text/javascript' src='javascripts/jquery.tipsy.js'></script>
+		<script type='text/javascript'>
+		$(function() {
+			$('#tipsy').tipsy({fade: true, gravity: 's'});
+		});
+		</script>
+		<!--[if IE]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		
+	</head>
+	<body>
+		<div class="wrapper">
+			<img src="images/sharky.jpg" alt="Shark Desarrollos" title="Shark Desarrollos" width="30%" height="30%" />
+			<div class="hr"></div>
+			<h1>Próximamente Shark Desarrollos</h1>
+			<p>Diseño y Desarrollo Web y móvil. <strong> Estamos trabajando:</strong></p>
+						
+			<section class="progress">
+				<div class="progress-bar-container" id="tipsy" title="50% Completo"> <!-- Edit this title for the tooltip pop up -->
+					<article class="progress-bar" style="width:50%"  ></article> <!-- Edit the width percentage value to indicate progress -->
+				</div>
+				<article class="txt-launch-day-hat"></article>
+			</section>
+			
+			<div class="hr"></div>
+			<section class="mailing-list">
+				<h2>¿Quieres que te avisemos cuándo estemos listos?</h2>
+				<form>
+					<input type="text" value="tu@correo.com" onfocus="if(!this._haschanged){this.value=''};this._haschanged=true;">
+					<input type="submit" value="Suscribirse">	
+				</form>
+			</section><div class="clear"></div>
+			<div class="hr"></div>
+		</div>
+	</body>
+</html>

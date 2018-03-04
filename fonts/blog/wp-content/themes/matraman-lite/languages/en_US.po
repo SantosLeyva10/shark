@@ -1,0 +1,2266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: matraman\n"
+"POT-Creation-Date: 2014-10-23 17:33+0700\n"
+"PO-Revision-Date: 2014-10-23 17:33+0700\n"
+"Last-Translator: Rizki Akmanda <rizkiakmanda@gmail.com>\n"
+"Language-Team: themesawesome <admin@themesawesome.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+"X-Poedit-SearchPath-3: .\n"
+
+#: 404.php:11 inc/format/content-no-result.php:8 ../matraman/404.php:11
+#: ../matraman/inc/format/content-no-result.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:15 inc/format/content-no-result.php:12 ../matraman/404.php:15
+#: ../matraman/inc/format/content-no-result.php:12
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: archive.php:5 ../matraman/archive.php:5
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:161 class-tgm.php:106
+#: ../matraman/class-tgm-plugin-activation.php:161
+#: ../matraman/class-tgm.php:106
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:162 class-tgm.php:107
+#: ../matraman/class-tgm-plugin-activation.php:162
+#: ../matraman/class-tgm.php:107
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:163 class-tgm.php:108
+#: ../matraman/class-tgm-plugin-activation.php:163
+#: ../matraman/class-tgm.php:108
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:164
+#: ../matraman/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:175 class-tgm.php:120
+#: ../matraman/class-tgm-plugin-activation.php:175
+#: ../matraman/class-tgm.php:120
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:176
+#: ../matraman/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:177 class-tgm-plugin-activation.php:1945
+#: class-tgm.php:121 ../matraman/class-tgm-plugin-activation.php:177
+#: ../matraman/class-tgm-plugin-activation.php:1945
+#: ../matraman/class-tgm.php:121
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:178
+#: ../matraman/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:179
+#: ../matraman/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:180
+#: ../matraman/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:534 class-tgm-plugin-activation.php:2162
+#: ../matraman/class-tgm-plugin-activation.php:534
+#: ../matraman/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1169
+#: ../matraman/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1172
+#: ../matraman/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1177
+#: ../matraman/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1180
+#: ../matraman/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1180
+#: ../matraman/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1183
+#: ../matraman/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1185
+#: ../matraman/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1290 class-tgm-plugin-activation.php:1398
+#: ../matraman/class-tgm-plugin-activation.php:1290
+#: ../matraman/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1312 class-tgm-plugin-activation.php:1399
+#: ../matraman/class-tgm-plugin-activation.php:1312
+#: ../matraman/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1361
+#: ../matraman/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1377
+#: ../matraman/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1378
+#: ../matraman/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1379
+#: ../matraman/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1380
+#: ../matraman/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1928
+#: ../matraman/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1929
+#: ../matraman/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1930
+#: ../matraman/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1931
+#: ../matraman/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1932
+#: ../matraman/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1933
+#: ../matraman/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1944
+#: ../matraman/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2058
+#: ../matraman/class-tgm-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2059
+#: ../matraman/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2059 class-tgm-plugin-activation.php:2068
+#: ../matraman/class-tgm-plugin-activation.php:2059
+#: ../matraman/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2059 class-tgm-plugin-activation.php:2068
+#: ../matraman/class-tgm-plugin-activation.php:2059
+#: ../matraman/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2060
+#: ../matraman/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2061
+#: ../matraman/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2065
+#: ../matraman/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2066
+#: ../matraman/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2067
+#: ../matraman/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2068
+#: ../matraman/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2069
+#: ../matraman/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2070
+#: ../matraman/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm.php:109 ../matraman/class-tgm.php:109
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm.php:122 ../matraman/class-tgm.php:122
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: comments.php:20 comments.php:35 ../matraman/comments.php:20
+#: ../matraman/comments.php:35 ../twentyfourteen/comments.php:34
+#: ../twentyfourteen/comments.php:52 ../twentythirteen/comments.php:45
+#: ../twentytwelve/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:21 comments.php:36 ../matraman/comments.php:21
+#: ../matraman/comments.php:36 ../twentyfourteen/comments.php:35
+#: ../twentyfourteen/comments.php:53 ../twentythirteen/comments.php:46
+#: ../twentytwelve/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:22 comments.php:37 ../matraman/comments.php:22
+#: ../matraman/comments.php:37 ../twentyfourteen/comments.php:36
+#: ../twentyfourteen/comments.php:54 ../twentythirteen/comments.php:47
+#: ../twentytwelve/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:47 ../matraman/comments.php:47
+#: ../twentyfourteen/comments.php:59 ../twentythirteen/comments.php:52
+#: ../twentytwelve/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:130 ../matraman/functions.php:130
+#: ../twentyfourteen/functions.php:171
+msgid "Primary Sidebar"
+msgstr ""
+
+#: search.php:4 ../matraman/search.php:4 ../twentyfourteen/search.php:18
+#: ../twentythirteen/search.php:18 ../twentytwelve/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/format/loop-audio.php:26 inc/format/loop-chat.php:22
+#: inc/format/loop-gallery.php:26 inc/format/loop-image.php:22
+#: inc/format/loop-video.php:26 inc/format/loop.php:22
+#: ../matraman/inc/format/loop-audio.php:26
+#: ../matraman/inc/format/loop-chat.php:22
+#: ../matraman/inc/format/loop-gallery.php:26
+#: ../matraman/inc/format/loop-image.php:22
+#: ../matraman/inc/format/loop-video.php:26 ../matraman/inc/format/loop.php:22
+msgid "Continue"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:26
+#: ../matraman/inc/function/akmanda-customizer.php:26
+msgid "Header"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:57
+#: ../matraman/inc/function/akmanda-customizer.php:57
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:64
+#: ../matraman/inc/function/akmanda-customizer.php:64
+msgid "Menu Text Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:71
+#: ../matraman/inc/function/akmanda-customizer.php:71
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/function/comment.php:16 ../matraman/inc/function/comment.php:16
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/function/comment.php:21 ../matraman/inc/function/comment.php:21
+#: ../twentytwelve/functions.php:340
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/function/comment.php:34 ../matraman/inc/function/comment.php:34
+#: ../twentyfourteen/content-aside.php:40
+#: ../twentyfourteen/content-audio.php:40
+#: ../twentyfourteen/content-gallery.php:40
+#: ../twentyfourteen/content-image.php:40
+#: ../twentyfourteen/content-link.php:40 ../twentyfourteen/content-page.php:28
+#: ../twentyfourteen/content-quote.php:40
+#: ../twentyfourteen/content-video.php:40 ../twentyfourteen/content.php:42
+#: ../twentyfourteen/image.php:34
+#: ../twentyfourteen/page-templates/contributors.php:35
+#: ../twentythirteen/content-aside.php:20
+#: ../twentythirteen/content-aside.php:28
+#: ../twentythirteen/content-audio.php:31
+#: ../twentythirteen/content-chat.php:29
+#: ../twentythirteen/content-gallery.php:39
+#: ../twentythirteen/content-image.php:35
+#: ../twentythirteen/content-link.php:19
+#: ../twentythirteen/content-quote.php:25
+#: ../twentythirteen/content-status.php:19
+#: ../twentythirteen/content-video.php:35 ../twentythirteen/content.php:31
+#: ../twentythirteen/image.php:44 ../twentythirteen/page.php:39
+#: ../twentytwelve/content-aside.php:26 ../twentytwelve/content-image.php:26
+#: ../twentytwelve/content-link.php:24 ../twentytwelve/content-page.php:24
+#: ../twentytwelve/content-quote.php:23 ../twentytwelve/content-status.php:40
+#: ../twentytwelve/content.php:51 ../twentytwelve/functions.php:345
+#: ../twentytwelve/image.php:37
+msgid "Edit"
+msgstr ""
+
+#: inc/function/custom.php:86 ../matraman/inc/function/custom.php:86
+#: ../twentyfourteen/functions.php:491 ../twentythirteen/functions.php:218
+#: ../twentytwelve/functions.php:213
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/function/navigation.php:46 ../matraman/inc/function/navigation.php:46
+msgid "OLDER POST"
+msgstr ""
+
+#: inc/function/navigation.php:50 ../matraman/inc/function/navigation.php:50
+msgid "NEWER POST"
+msgstr ""
+
+#: inc/function/thefooter.php:9 inc/function/thefooter.php:23
+#: inc/function/thefooter.php:46 inc/function/thefooter.php:79
+#: ../matraman/inc/function/thefooter.php:9
+#: ../matraman/inc/function/thefooter.php:23
+#: ../matraman/inc/function/thefooter.php:46
+#: ../matraman/inc/function/thefooter.php:79
+msgid "Footer 1"
+msgstr ""
+
+#: inc/function/thefooter.php:33 inc/function/thefooter.php:56
+#: inc/function/thefooter.php:89 ../matraman/inc/function/thefooter.php:33
+#: ../matraman/inc/function/thefooter.php:56
+#: ../matraman/inc/function/thefooter.php:89
+msgid "Footer 2"
+msgstr ""
+
+#: inc/function/thefooter.php:66 inc/function/thefooter.php:99
+#: ../matraman/inc/function/thefooter.php:66
+#: ../matraman/inc/function/thefooter.php:99
+msgid "Footer 3"
+msgstr ""
+
+#: inc/function/thefooter.php:109 ../matraman/inc/function/thefooter.php:109
+msgid "Footer 4"
+msgstr ""
+
+#: inc/meta-box/init.php:251 ../matraman/inc/meta-box/init.php:251
+msgid "Clear"
+msgstr ""
+
+#: inc/meta-box/init.php:252 inc/option/core/framework.php:2053
+#: ../matraman/inc/meta-box/init.php:252
+#: ../matraman/inc/option/core/framework.php:2053
+msgid "Default"
+msgstr ""
+
+#: inc/meta-box/init.php:253 ../matraman/inc/meta-box/init.php:253
+msgid "Select Color"
+msgstr ""
+
+#: inc/meta-box/init.php:254 ../matraman/inc/meta-box/init.php:254
+msgid "Current Color"
+msgstr ""
+
+#: inc/meta-box/init.php:1155 ../matraman/inc/meta-box/init.php:1155
+msgid "Save"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:13
+#: ../matraman/inc/meta-box/post-functions.php:13
+msgid "Haircut Page Options"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:20
+#: ../matraman/inc/meta-box/post-functions.php:20
+msgid "Hide Title"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:24
+#: ../matraman/inc/meta-box/post-functions.php:24
+msgid "YES"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:25
+#: ../matraman/inc/meta-box/post-functions.php:25
+msgid "NO"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_ajax.php:47
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_ajax.php:131
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_ajax.php:134
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_field.php:449
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_field.php:449
+msgid "Add Group"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_field.php:450
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_field.php:450
+msgid "Remove Group"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:249
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:249
+msgid "Add Row"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:305
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:705
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:765
+#: inc/option/core/inc/fields/background/field_background.php:321
+#: inc/option/core/inc/fields/media/field_media.php:161
+#: inc/option/core/inc/fields/multi_text/field_multi_text.php:68
+#: inc/option/core/inc/fields/multi_text/field_multi_text.php:72
+#: inc/option/core/inc/fields/multi_text/field_multi_text.php:75
+#: inc/option/core/inc/fields/slides/field_slides.php:133
+#: inc/option/core/inc/fields/slides/field_slides.php:190
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:305
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:705
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:765
+#: ../matraman/inc/option/core/inc/fields/background/field_background.php:321
+#: ../matraman/inc/option/core/inc/fields/media/field_media.php:161
+#: ../matraman/inc/option/core/inc/fields/multi_text/field_multi_text.php:68
+#: ../matraman/inc/option/core/inc/fields/multi_text/field_multi_text.php:72
+#: ../matraman/inc/option/core/inc/fields/multi_text/field_multi_text.php:75
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:133
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:600
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:634
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:600
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:634
+msgid "No terms"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:673
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:727
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:673
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:727
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:694
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:757
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:694
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:757
+msgid "Remove Image"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:705
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:765
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:705
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:765
+msgid "File:"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:705
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:765
+#: inc/option/core/inc/import_export.php:104
+#: inc/option/core/inc/fields/import_export/import_export.php:109
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:705
+#: ../matraman/inc/meta-box/helpers/cmb_Meta_Box_types.php:765
+#: ../matraman/inc/option/core/inc/import_export.php:104
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:109
+msgid "Download"
+msgstr ""
+
+#: inc/option/core/framework.php:172
+#: ../matraman/inc/option/core/framework.php:172
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: inc/option/core/framework.php:172
+#: ../matraman/inc/option/core/framework.php:172
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/option/core/framework.php:176 inc/option/core/framework.php:180
+#: inc/option/panel/config.php:335 inc/option/panel/config.php:336
+#: ../matraman/inc/option/core/framework.php:176
+#: ../matraman/inc/option/core/framework.php:180
+#: ../matraman/inc/option/panel/config.php:335
+#: ../matraman/inc/option/panel/config.php:336
+msgid "Options"
+msgstr ""
+
+#: inc/option/core/framework.php:364
+#: ../matraman/inc/option/core/framework.php:364
+msgid "Unable to create a required directory. Please ensure that <code>"
+msgstr ""
+
+#: inc/option/core/framework.php:1209 inc/option/core/framework.php:1210
+#: inc/option/core/framework.php:3353 inc/option/core/framework.php:3432
+#: ../matraman/inc/option/core/framework.php:1209
+#: ../matraman/inc/option/core/framework.php:1210
+#: ../matraman/inc/option/core/framework.php:3353
+#: ../matraman/inc/option/core/framework.php:3432
+msgid "System Info"
+msgstr ""
+
+#: inc/option/core/framework.php:1751
+#: inc/option/core/extensions/customizer/extension_customizer.php:467
+#: ../matraman/inc/option/core/framework.php:1751
+#: ../matraman/inc/option/core/extensions/customizer/extension_customizer.php:467
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: inc/option/core/framework.php:1759
+#: inc/option/core/extensions/customizer/extension_customizer.php:468
+#: ../matraman/inc/option/core/framework.php:1759
+#: ../matraman/inc/option/core/extensions/customizer/extension_customizer.php:468
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: inc/option/core/framework.php:1767
+#: ../matraman/inc/option/core/framework.php:1767
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: inc/option/core/framework.php:1775
+#: inc/option/core/extensions/customizer/extension_customizer.php:469
+#: ../matraman/inc/option/core/framework.php:1775
+#: ../matraman/inc/option/core/extensions/customizer/extension_customizer.php:469
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/option/core/framework.php:1782
+#: ../matraman/inc/option/core/framework.php:1782
+msgid "Please Wait"
+msgstr ""
+
+#: inc/option/core/framework.php:1928
+#: ../matraman/inc/option/core/framework.php:1928
+msgid "Hints"
+msgstr ""
+
+#: inc/option/core/framework.php:1929
+#: ../matraman/inc/option/core/framework.php:1929
+msgid "<p>"
+msgstr ""
+
+#: inc/option/core/framework.php:3105
+#: ../matraman/inc/option/core/framework.php:3105
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: inc/option/core/framework.php:3179
+#: ../matraman/inc/option/core/framework.php:3179
+msgid "Expand"
+msgstr ""
+
+#: inc/option/core/framework.php:3181 inc/option/core/framework.php:3489
+#: ../matraman/inc/option/core/framework.php:3181
+#: ../matraman/inc/option/core/framework.php:3489
+msgid "Save Changes"
+msgstr ""
+
+#: inc/option/core/framework.php:3185 inc/option/core/framework.php:3493
+#: ../matraman/inc/option/core/framework.php:3185
+#: ../matraman/inc/option/core/framework.php:3493
+msgid "Reset Section"
+msgstr ""
+
+#: inc/option/core/framework.php:3187 inc/option/core/framework.php:3495
+#: ../matraman/inc/option/core/framework.php:3187
+#: ../matraman/inc/option/core/framework.php:3495
+msgid "Reset All"
+msgstr ""
+
+#: inc/option/core/framework.php:3192 inc/option/core/framework.php:3500
+#: ../matraman/inc/option/core/framework.php:3192
+#: ../matraman/inc/option/core/framework.php:3500
+msgid "Working..."
+msgstr ""
+
+#: inc/option/core/framework.php:3212
+#: ../matraman/inc/option/core/framework.php:3212
+msgid "Settings Imported!"
+msgstr ""
+
+#: inc/option/core/framework.php:3227
+#: ../matraman/inc/option/core/framework.php:3227
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: inc/option/core/framework.php:3241
+#: ../matraman/inc/option/core/framework.php:3241
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: inc/option/core/framework.php:3255
+#: ../matraman/inc/option/core/framework.php:3255
+msgid "Settings Saved!"
+msgstr ""
+
+#: inc/option/core/framework.php:3273
+#: ../matraman/inc/option/core/framework.php:3273
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: inc/option/core/framework.php:3281
+#: ../matraman/inc/option/core/framework.php:3281
+msgid "error(s) were found!"
+msgstr ""
+
+#: inc/option/core/framework.php:3289
+#: ../matraman/inc/option/core/framework.php:3289
+msgid "warning(s) were found!"
+msgstr ""
+
+#: inc/option/core/extensions/customizer/extension_customizer.php:502
+#: ../matraman/inc/option/core/extensions/customizer/extension_customizer.php:502
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: inc/option/core/extensions/customizer/extension_customizer.php:503
+#: ../matraman/inc/option/core/extensions/customizer/extension_customizer.php:503
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: inc/option/core/extensions/customizer/extension_customizer.php:504
+#: ../matraman/inc/option/core/extensions/customizer/extension_customizer.php:504
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/option/core/inc/class.redux_functions.php:252
+#: ../matraman/inc/option/core/inc/class.redux_functions.php:252
+msgid "Dismiss"
+msgstr ""
+
+#: inc/option/core/inc/debug.php:41 inc/option/core/inc/debug.php:69
+#: inc/option/core/inc/debug.php:76 inc/option/core/inc/debug.php:77
+#: ../matraman/inc/option/core/inc/debug.php:41
+#: ../matraman/inc/option/core/inc/debug.php:69
+#: ../matraman/inc/option/core/inc/debug.php:76
+#: ../matraman/inc/option/core/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: inc/option/core/inc/debug.php:54
+#: ../matraman/inc/option/core/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: inc/option/core/inc/import_export.php:78
+#: inc/option/core/inc/fields/import_export/import_export.php:77
+#: ../matraman/inc/option/core/inc/import_export.php:78
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:77
+msgid "Import / Export Options"
+msgstr ""
+
+#: inc/option/core/inc/import_export.php:81
+#: inc/option/core/inc/fields/import_export/import_export.php:80
+#: ../matraman/inc/option/core/inc/import_export.php:81
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:80
+msgid "Import Options"
+msgstr ""
+
+#: inc/option/core/inc/import_export.php:82
+#: inc/option/core/inc/fields/import_export/import_export.php:81
+#: ../matraman/inc/option/core/inc/import_export.php:82
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:81
+msgid "Import from file"
+msgstr ""
+
+#: inc/option/core/inc/import_export.php:82
+#: inc/option/core/inc/fields/import_export/import_export.php:81
+#: ../matraman/inc/option/core/inc/import_export.php:82
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:81
+msgid "Import from URL"
+msgstr ""
+
+#: inc/option/core/inc/import_export.php:85
+#: inc/option/core/inc/fields/import_export/import_export.php:85
+#: ../matraman/inc/option/core/inc/import_export.php:85
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: inc/option/core/inc/import_export.php:90
+#: inc/option/core/inc/fields/import_export/import_export.php:93
+#: ../matraman/inc/option/core/inc/import_export.php:90
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:93
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: inc/option/core/inc/import_export.php:94
+#: inc/option/core/inc/fields/import_export/import_export.php:99
+#: ../matraman/inc/option/core/inc/import_export.php:94
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:99
+msgid "Import"
+msgstr ""
+
+#: inc/option/core/inc/import_export.php:94
+#: inc/option/core/inc/fields/import_export/import_export.php:99
+#: ../matraman/inc/option/core/inc/import_export.php:94
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:99
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: inc/option/core/inc/import_export.php:97
+#: inc/option/core/inc/fields/import_export/import_export.php:102
+#: ../matraman/inc/option/core/inc/import_export.php:97
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:102
+msgid "Export Options"
+msgstr ""
+
+#: inc/option/core/inc/import_export.php:100
+#: inc/option/core/inc/fields/import_export/import_export.php:105
+#: ../matraman/inc/option/core/inc/import_export.php:100
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:105
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: inc/option/core/inc/import_export.php:104
+#: inc/option/core/inc/fields/import_export/import_export.php:109
+#: ../matraman/inc/option/core/inc/import_export.php:104
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:109
+msgid "Copy"
+msgstr ""
+
+#: inc/option/core/inc/import_export.php:104
+#: inc/option/core/inc/fields/import_export/import_export.php:109
+#: ../matraman/inc/option/core/inc/import_export.php:104
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:109
+msgid "Copy Link"
+msgstr ""
+
+#: inc/option/core/inc/import_export.php:140
+#: inc/option/core/inc/import_export.php:149
+#: inc/option/core/inc/import_export.php:150
+#: inc/option/core/inc/fields/import_export/import_export.php:149
+#: inc/option/core/inc/fields/import_export/import_export.php:158
+#: inc/option/core/inc/fields/import_export/import_export.php:159
+#: ../matraman/inc/option/core/inc/import_export.php:140
+#: ../matraman/inc/option/core/inc/import_export.php:149
+#: ../matraman/inc/option/core/inc/import_export.php:150
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:149
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:158
+#: ../matraman/inc/option/core/inc/fields/import_export/import_export.php:159
+msgid "Import / Export"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:130
+#: ../matraman/inc/option/core/inc/tracking.php:130
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:131
+#: ../matraman/inc/option/core/inc/tracking.php:131
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatability."
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:136
+#: ../matraman/inc/option/core/inc/tracking.php:136
+msgid "Allow tracking"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:141
+#: ../matraman/inc/option/core/inc/tracking.php:141
+msgid "Do not allow tracking"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:152
+#: ../matraman/inc/option/core/inc/tracking.php:152
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:153
+#: ../matraman/inc/option/core/inc/tracking.php:153
+msgid "Getting Started"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:153
+#: ../matraman/inc/option/core/inc/tracking.php:153
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:153
+#: ../matraman/inc/option/core/inc/tracking.php:153
+msgid "our documentation"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:154
+#: ../matraman/inc/option/core/inc/tracking.php:154
+msgid "Redux Generator"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:154
+#: ../matraman/inc/option/core/inc/tracking.php:154
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:155
+#: ../matraman/inc/option/core/inc/tracking.php:155
+msgid "Redux Extensions"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:155
+#: ../matraman/inc/option/core/inc/tracking.php:155
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:155
+#: ../matraman/inc/option/core/inc/tracking.php:155
+msgid "extensions directory"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:156
+#: ../matraman/inc/option/core/inc/tracking.php:156
+msgid "Like Redux?"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:156
+#: ../matraman/inc/option/core/inc/tracking.php:156
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:156
+#: ../matraman/inc/option/core/inc/tracking.php:156
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:156
+#: ../matraman/inc/option/core/inc/tracking.php:156
+msgid "donation"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:157
+#: ../matraman/inc/option/core/inc/tracking.php:157
+msgid "Newsletter"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:157
+#: ../matraman/inc/option/core/inc/tracking.php:157
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:158
+#: ../matraman/inc/option/core/inc/tracking.php:158
+msgid "Email address"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:158
+#: ../matraman/inc/option/core/inc/tracking.php:158
+msgid "Subscribe"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:167
+#: ../matraman/inc/option/core/inc/tracking.php:167
+msgid "Close"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:124
+#: inc/option/core/inc/fields/color/field_color.php:72
+#: inc/option/core/inc/fields/color_gradient/field_color_gradient.php:79
+#: inc/option/core/inc/fields/color_gradient/field_color_gradient.php:91
+#: inc/option/core/inc/fields/color_rgba/field_color_rgba.php:77
+#: ../matraman/inc/option/core/inc/fields/background/field_background.php:124
+#: ../matraman/inc/option/core/inc/fields/color/field_color.php:72
+#: ../matraman/inc/option/core/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../matraman/inc/option/core/inc/fields/color_gradient/field_color_gradient.php:91
+#: ../matraman/inc/option/core/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:141
+#: ../matraman/inc/option/core/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:157
+#: ../matraman/inc/option/core/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:173
+#: ../matraman/inc/option/core/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:188
+#: ../matraman/inc/option/core/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:203
+#: ../matraman/inc/option/core/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:223
+#: ../matraman/inc/option/core/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:277
+#: inc/option/core/inc/fields/media/field_media.php:112
+#: ../matraman/inc/option/core/inc/fields/background/field_background.php:277
+#: ../matraman/inc/option/core/inc/fields/media/field_media.php:112
+msgid "No media selected"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:314
+#: inc/option/core/inc/fields/media/field_media.php:154
+#: inc/option/core/inc/fields/slides/field_slides.php:126
+#: inc/option/core/inc/fields/slides/field_slides.php:188
+#: ../matraman/inc/option/core/inc/fields/background/field_background.php:314
+#: ../matraman/inc/option/core/inc/fields/media/field_media.php:154
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:126
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: inc/option/core/inc/fields/border/field_border.php:114
+#: inc/option/core/inc/fields/spacing/field_spacing.php:191
+#: ../matraman/inc/option/core/inc/fields/border/field_border.php:114
+#: ../matraman/inc/option/core/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: inc/option/core/inc/fields/border/field_border.php:127
+#: inc/option/core/inc/fields/spacing/field_spacing.php:215
+#: ../matraman/inc/option/core/inc/fields/border/field_border.php:127
+#: ../matraman/inc/option/core/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: inc/option/core/inc/fields/border/field_border.php:134
+#: inc/option/core/inc/fields/spacing/field_spacing.php:222
+#: ../matraman/inc/option/core/inc/fields/border/field_border.php:134
+#: ../matraman/inc/option/core/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: inc/option/core/inc/fields/border/field_border.php:141
+#: inc/option/core/inc/fields/spacing/field_spacing.php:229
+#: ../matraman/inc/option/core/inc/fields/border/field_border.php:141
+#: ../matraman/inc/option/core/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: inc/option/core/inc/fields/border/field_border.php:148
+#: inc/option/core/inc/fields/spacing/field_spacing.php:236
+#: ../matraman/inc/option/core/inc/fields/border/field_border.php:148
+#: ../matraman/inc/option/core/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: inc/option/core/inc/fields/border/field_border.php:162
+#: ../matraman/inc/option/core/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: inc/option/core/inc/fields/color_gradient/field_color_gradient.php:68
+#: ../matraman/inc/option/core/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: inc/option/core/inc/fields/color_gradient/field_color_gradient.php:82
+#: ../matraman/inc/option/core/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: inc/option/core/inc/fields/dimensions/field_dimensions.php:161
+#: ../matraman/inc/option/core/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: inc/option/core/inc/fields/dimensions/field_dimensions.php:177
+#: inc/option/core/inc/fields/typography/field_typography.php:455
+#: ../matraman/inc/option/core/inc/fields/dimensions/field_dimensions.php:177
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:455
+msgid "Height"
+msgstr ""
+
+#: inc/option/core/inc/fields/dimensions/field_dimensions.php:188
+#: inc/option/core/inc/fields/dimensions/field_dimensions.php:189
+#: inc/option/core/inc/fields/spacing/field_spacing.php:245
+#: inc/option/core/inc/fields/spacing/field_spacing.php:246
+#: ../matraman/inc/option/core/inc/fields/dimensions/field_dimensions.php:188
+#: ../matraman/inc/option/core/inc/fields/dimensions/field_dimensions.php:189
+#: ../matraman/inc/option/core/inc/fields/spacing/field_spacing.php:245
+#: ../matraman/inc/option/core/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: inc/option/core/inc/fields/gallery/field_gallery.php:73
+#: ../matraman/inc/option/core/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: inc/option/core/inc/fields/gallery/field_gallery.php:74
+#: ../matraman/inc/option/core/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: inc/option/core/inc/fields/group/field_group.php:82
+#: ../matraman/inc/option/core/inc/fields/group/field_group.php:82
+msgid "New "
+msgstr ""
+
+#: inc/option/core/inc/fields/group/field_group.php:125
+#: ../matraman/inc/option/core/inc/fields/group/field_group.php:125
+msgid "Delete"
+msgstr ""
+
+#: inc/option/core/inc/fields/group/field_group.php:129
+#: ../matraman/inc/option/core/inc/fields/group/field_group.php:129
+msgid "Add"
+msgstr ""
+
+#: inc/option/core/inc/fields/link_color/field_link_color.php:87
+#: ../matraman/inc/option/core/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: inc/option/core/inc/fields/link_color/field_link_color.php:91
+#: ../matraman/inc/option/core/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: inc/option/core/inc/fields/link_color/field_link_color.php:95
+#: ../matraman/inc/option/core/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: inc/option/core/inc/fields/link_color/field_link_color.php:99
+#: ../matraman/inc/option/core/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: inc/option/core/inc/fields/multi_text/field_multi_text.php:60
+#: ../matraman/inc/option/core/inc/fields/multi_text/field_multi_text.php:60
+msgid "Add More"
+msgstr ""
+
+#: inc/option/core/inc/fields/password/field_password.php:62
+#: ../matraman/inc/option/core/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: inc/option/core/inc/fields/password/field_password.php:63
+#: ../matraman/inc/option/core/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: inc/option/core/inc/fields/select/field_select.php:82
+#: inc/option/core/inc/fields/select_image/field_select_image.php:62
+#: ../matraman/inc/option/core/inc/fields/select/field_select.php:82
+#: ../matraman/inc/option/core/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr ""
+
+#: inc/option/core/inc/fields/select/field_select.php:126
+#: inc/option/core/inc/fields/select_image/field_select_image.php:143
+#: ../matraman/inc/option/core/inc/fields/select/field_select.php:126
+#: ../matraman/inc/option/core/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:68
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:73
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:145
+#: inc/option/core/inc/fields/slides/field_slides.php:200
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:145
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:149
+#: inc/option/core/inc/fields/slides/field_slides.php:204
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:149
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:153
+#: inc/option/core/inc/fields/slides/field_slides.php:207
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:153
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:167
+#: inc/option/core/inc/fields/slides/field_slides.php:220
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:167
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:220
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:223
+#: ../matraman/inc/option/core/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: inc/option/core/inc/fields/switch/field_switch.php:41
+#: ../matraman/inc/option/core/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: inc/option/core/inc/fields/switch/field_switch.php:44
+#: ../matraman/inc/option/core/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:256
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:256
+msgid "Font Family"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:257
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:257
+msgid "Font family"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:283
+#: inc/option/core/inc/fields/typography/field_typography.php:284
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:283
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:284
+msgid "Backup Font Family"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:298
+#: inc/option/core/inc/fields/typography/field_typography.php:305
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:298
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:305
+msgid "Font style"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:299
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:299
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:305
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:305
+msgid "Style"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:335
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:335
+msgid "Font subsets"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:337
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:337
+msgid "Font Subsets"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:338
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:338
+msgid "Subsets"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:338
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:338
+msgid "Font script"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:355
+#: inc/option/core/inc/fields/typography/field_typography.php:356
+#: inc/option/core/inc/fields/typography/field_typography.php:357
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:355
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:356
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:357
+msgid "Text Align"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:378
+#: inc/option/core/inc/fields/typography/field_typography.php:379
+#: inc/option/core/inc/fields/typography/field_typography.php:380
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:378
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:379
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:380
+msgid "Text Transform"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:401
+#: inc/option/core/inc/fields/typography/field_typography.php:402
+#: inc/option/core/inc/fields/typography/field_typography.php:403
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:401
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:402
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:403
+msgid "Font Variant"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:421
+#: inc/option/core/inc/fields/typography/field_typography.php:422
+#: inc/option/core/inc/fields/typography/field_typography.php:423
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:421
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:422
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:423
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:445
+#: inc/option/core/inc/fields/typography/field_typography.php:446
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:445
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:446
+msgid "Font Size"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:446
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:446
+msgid "Size"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:454
+#: inc/option/core/inc/fields/typography/field_typography.php:455
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:454
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:455
+msgid "Line Height"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:463
+#: inc/option/core/inc/fields/typography/field_typography.php:464
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:463
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:464
+msgid "Word Spacing"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:472
+#: inc/option/core/inc/fields/typography/field_typography.php:473
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:472
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:473
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:491
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:491
+msgid "Font Color"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:493
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:493
+msgid "Font color"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:822
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:822
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:928
+#: ../matraman/inc/option/core/inc/fields/typography/field_typography.php:928
+msgid "Google Webfonts"
+msgstr ""
+
+#: inc/option/core/inc/validation/color/validation_color.php:15
+#: inc/option/core/inc/validation/colorrgba/validation_colorrgba.php:16
+#: inc/option/core/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../matraman/inc/option/core/inc/validation/color/validation_color.php:15
+#: ../matraman/inc/option/core/inc/validation/colorrgba/validation_colorrgba.php:16
+#: ../matraman/inc/option/core/inc/validation/color_rgba/validation_color_rgba.php:14
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: inc/option/core/inc/validation/comma_numeric/validation_comma_numeric.php:16
+#: ../matraman/inc/option/core/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: inc/option/core/inc/validation/date/validation_date.php:16
+#: ../matraman/inc/option/core/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: inc/option/core/inc/validation/email/validation_email.php:16
+#: inc/option/core/inc/validation/email_not_empty/validation_email_not_empty.php:16
+#: ../matraman/inc/option/core/inc/validation/email/validation_email.php:16
+#: ../matraman/inc/option/core/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: inc/option/core/inc/validation/not_empty/validation_not_empty.php:16
+#: ../matraman/inc/option/core/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: inc/option/core/inc/validation/no_html/validation_no_html.php:15
+#: ../matraman/inc/option/core/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: inc/option/core/inc/validation/no_special_chars/validation_no_special_chars.php:16
+#: ../matraman/inc/option/core/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: inc/option/core/inc/validation/numeric/validation_numeric.php:16
+#: inc/option/core/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+#: ../matraman/inc/option/core/inc/validation/numeric/validation_numeric.php:16
+#: ../matraman/inc/option/core/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: inc/option/core/inc/validation/url/validation_url.php:16
+#: ../matraman/inc/option/core/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: inc/option/panel/config.php:52 ../matraman/inc/option/panel/config.php:52
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/option/panel/config.php:69 ../matraman/inc/option/panel/config.php:69
+msgid "Header Options"
+msgstr ""
+
+#: inc/option/panel/config.php:77 ../matraman/inc/option/panel/config.php:77
+msgid "Logo"
+msgstr ""
+
+#: inc/option/panel/config.php:78 ../matraman/inc/option/panel/config.php:78
+msgid "Upload your logo here (any size)."
+msgstr ""
+
+#: inc/option/panel/config.php:86 ../matraman/inc/option/panel/config.php:86
+msgid "Deafault Background Header"
+msgstr ""
+
+#: inc/option/panel/config.php:87 ../matraman/inc/option/panel/config.php:87
+msgid "Upload Default Background Header Here"
+msgstr ""
+
+#: inc/option/panel/config.php:98 ../matraman/inc/option/panel/config.php:98
+msgid "Background Options"
+msgstr ""
+
+#: inc/option/panel/config.php:105 ../matraman/inc/option/panel/config.php:105
+msgid "Body Background"
+msgstr ""
+
+#: inc/option/panel/config.php:106 ../matraman/inc/option/panel/config.php:106
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: inc/option/panel/config.php:117 ../matraman/inc/option/panel/config.php:117
+msgid "Footer Options"
+msgstr ""
+
+#: inc/option/panel/config.php:125 ../matraman/inc/option/panel/config.php:125
+msgid "Main Layout"
+msgstr ""
+
+#: inc/option/panel/config.php:126 ../matraman/inc/option/panel/config.php:126
+msgid ""
+"Select footer and widget alignment. Choose between 1, 2, 3 or 4 column "
+"layout."
+msgstr ""
+
+#: inc/option/panel/config.php:140 ../matraman/inc/option/panel/config.php:140
+msgid "Footer Text"
+msgstr ""
+
+#: inc/option/panel/config.php:141 ../matraman/inc/option/panel/config.php:141
+msgid "Add Your Copyright Here"
+msgstr ""
+
+#: inc/option/panel/config.php:152 ../matraman/inc/option/panel/config.php:152
+msgid "Typography Options"
+msgstr ""
+
+#: inc/option/panel/config.php:160 ../matraman/inc/option/panel/config.php:160
+msgid "Body Options"
+msgstr ""
+
+#: inc/option/panel/config.php:174 ../matraman/inc/option/panel/config.php:174
+msgid "Set website body font (leave form empty if you want to use default)"
+msgstr ""
+
+#: inc/option/panel/config.php:190 ../matraman/inc/option/panel/config.php:190
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/option/panel/config.php:204 ../matraman/inc/option/panel/config.php:204
+msgid "Set website heading font (leave form empty if you want to use default)"
+msgstr ""
+
+#: inc/option/panel/config.php:219 ../matraman/inc/option/panel/config.php:219
+msgid "Menu Typography"
+msgstr ""
+
+#: inc/option/panel/config.php:233 ../matraman/inc/option/panel/config.php:233
+msgid "Set website menu font (leave form empty if you want to use default)"
+msgstr ""
+
+#: inc/option/panel/config.php:248 ../matraman/inc/option/panel/config.php:248
+msgid "Social Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:254 ../matraman/inc/option/panel/config.php:254
+msgid "Facebook Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:262 ../matraman/inc/option/panel/config.php:262
+msgid "twitter Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:271 ../matraman/inc/option/panel/config.php:271
+msgid "Google+ Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:280 ../matraman/inc/option/panel/config.php:280
+msgid "linkedin Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:289 ../matraman/inc/option/panel/config.php:289
+msgid "Pinterest Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:307 ../matraman/inc/option/panel/config.php:307
+msgid "Documentation"
+msgstr ""
+
+#: inc/option/panel/config.php:318 ../matraman/inc/option/panel/config.php:318
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/option/panel/config.php:319 ../matraman/inc/option/panel/config.php:319
+msgid "<p>Please go to themesawesome.com to get support</p>"
+msgstr ""
+
+#: inc/widget/newsletter.php:110 ../matraman/inc/widget/newsletter.php:110
+msgid "Your Email address"
+msgstr ""
+
+#: inc/widget/newsletter.php:112 ../matraman/inc/widget/newsletter.php:112
+msgid "GO!"
+msgstr ""
+
+#: ../twentyfourteen/404.php:17 ../twentythirteen/404.php:16
+msgid "Not Found"
+msgstr ""
+
+#: ../twentyfourteen/404.php:21 ../twentythirteen/404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:31 ../twentythirteen/archive.php:29
+#: ../twentytwelve/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:34 ../twentythirteen/archive.php:31
+#: ../twentytwelve/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:37 ../twentythirteen/archive.php:33
+#: ../twentytwelve/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:40
+#: ../twentyfourteen/taxonomy-post_format.php:51
+#: ../twentythirteen/archive.php:35 ../twentytwelve/archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../twentyfourteen/author.php:31 ../twentythirteen/author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentyfourteen/category.php:20 ../twentythirteen/category.php:19
+#: ../twentytwelve/category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "1 Comment"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "% Comments"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:46
+#: ../twentyfourteen/content-audio.php:46
+#: ../twentyfourteen/content-gallery.php:46
+#: ../twentyfourteen/content-image.php:46
+#: ../twentyfourteen/content-link.php:46
+#: ../twentyfourteen/content-quote.php:46
+#: ../twentyfourteen/content-video.php:46 ../twentyfourteen/content.php:54
+#: ../twentyfourteen/inc/widgets.php:127 ../twentyfourteen/inc/widgets.php:172
+#: ../twentythirteen/content-aside.php:13
+#: ../twentythirteen/content-audio.php:24
+#: ../twentythirteen/content-gallery.php:24
+#: ../twentythirteen/content-image.php:23
+#: ../twentythirteen/content-link.php:24
+#: ../twentythirteen/content-quote.php:13
+#: ../twentythirteen/content-status.php:13
+#: ../twentythirteen/content-video.php:23 ../twentythirteen/content.php:41
+#: ../twentytwelve/content-aside.php:15 ../twentytwelve/content-image.php:13
+#: ../twentytwelve/content-link.php:14 ../twentytwelve/content-quote.php:13
+#: ../twentytwelve/content-status.php:31 ../twentytwelve/content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:48
+#: ../twentyfourteen/content-audio.php:48
+#: ../twentyfourteen/content-gallery.php:48
+#: ../twentyfourteen/content-image.php:48
+#: ../twentyfourteen/content-link.php:48 ../twentyfourteen/content-page.php:22
+#: ../twentyfourteen/content-quote.php:48
+#: ../twentyfourteen/content-video.php:48 ../twentyfourteen/content.php:56
+#: ../twentyfourteen/image.php:54 ../twentythirteen/content-aside.php:14
+#: ../twentythirteen/content-audio.php:25
+#: ../twentythirteen/content-chat.php:24
+#: ../twentythirteen/content-gallery.php:25
+#: ../twentythirteen/content-image.php:24
+#: ../twentythirteen/content-link.php:25
+#: ../twentythirteen/content-quote.php:14
+#: ../twentythirteen/content-status.php:14
+#: ../twentythirteen/content-video.php:24 ../twentythirteen/content.php:42
+#: ../twentythirteen/image.php:70 ../twentythirteen/page.php:35
+#: ../twentytwelve/content-page.php:21 ../twentytwelve/content.php:45
+#: ../twentytwelve/image.php:102
+msgid "Pages:"
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:12 ../twentythirteen/content-none.php:12
+#: ../twentytwelve/content-none.php:13 ../twentytwelve/index.php:49
+#: ../twentytwelve/search.php:34
+msgid "Nothing Found"
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:18 ../twentythirteen/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:27 ../twentythirteen/content-none.php:27
+#: ../twentytwelve/404.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+#: ../twentytwelve/footer.php:16
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+#: ../twentytwelve/footer.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:83
+msgid "Top primary menu"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:84
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:173
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:180
+msgid "Content Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:182
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:189
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:191 ../twentythirteen/functions.php:233
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:254
+msgid "Previous"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:255
+msgid "Next"
+msgstr ""
+
+#: ../twentyfourteen/header.php:48
+msgid "Search"
+msgstr ""
+
+#: ../twentyfourteen/header.php:52 ../twentytwelve/functions.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: ../twentyfourteen/header.php:53 ../twentythirteen/header.php:44
+#: ../twentytwelve/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentyfourteen/image.php:65
+msgid "Previous Image"
+msgstr ""
+
+#: ../twentyfourteen/image.php:66
+msgid "Next Image"
+msgstr ""
+
+#: ../twentyfourteen/tag.php:22 ../twentythirteen/tag.php:21
+#: ../twentytwelve/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:30
+#: ../twentyfourteen/inc/widgets.php:79
+msgid "Asides"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:33
+#: ../twentyfourteen/inc/widgets.php:54
+msgid "Images"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:36
+#: ../twentyfourteen/inc/widgets.php:58
+msgid "Videos"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:39
+#: ../twentyfourteen/inc/widgets.php:62
+msgid "Audio"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:42
+#: ../twentyfourteen/inc/widgets.php:66
+msgid "Quotes"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:45
+#: ../twentyfourteen/inc/widgets.php:70
+msgid "Links"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:48
+#: ../twentyfourteen/inc/widgets.php:74
+msgid "Galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/back-compat.php:37
+#: ../twentyfourteen/inc/back-compat.php:47
+#: ../twentyfourteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fourteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:19
+#: ../twentyfourteen/inc/customizer.php:20
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:28
+msgid "Site Title Color"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:31
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:35
+#: ../twentyfourteen/inc/featured-content.php:405
+msgid "Featured Content"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:36
+#: ../twentyfourteen/inc/featured-content.php:406
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:50
+msgid "Layout"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:54
+msgid "Grid"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:55
+msgid "Slider"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:99
+msgid "Twenty Fourteen"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:102
+#, php-format
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change "
+"the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If "
+"no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed "
+"instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:103
+#, php-format
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. Twenty "
+"Fourteen uses featured images for posts and pages&mdash;above the "
+"title&mdash;and in the Featured Content area on the home page."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:104
+#, php-format
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+"\">Twenty Fourteen documentation</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:428
+msgid "Tag Name"
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:433
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:50 ../twentytwelve/image.php:41
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:51 ../twentytwelve/image.php:42
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:58
+#: ../twentythirteen/functions.php:266
+msgid "Posts navigation"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:85
+#: ../twentythirteen/functions.php:300 ../twentytwelve/functions.php:286
+#: ../twentytwelve/single.php:20
+msgid "Post navigation"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:89
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:92
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:109
+#: ../twentythirteen/functions.php:322
+msgid "Sticky"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:36
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+"Gallery, and Link posts."
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:55
+msgid "More images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:59
+msgid "More videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:63
+msgid "More audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:67
+msgid "More quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:71
+msgid "More links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:75
+msgid "More galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:80
+msgid "More asides"
+msgstr ""
+
+#. translators: used with More archives link
+#: ../twentyfourteen/inc/widgets.php:206
+#, php-format
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:255
+msgid "Title:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:258
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:261
+msgid "Post format to show:"
+msgstr ""
+
+#: ../twentythirteen/404.php:21 ../twentytwelve/404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:26 ../twentytwelve/author.php:63
+#: ../twentytwelve/content.php:62
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:30 ../twentytwelve/content.php:66
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+msgid "One comment so far"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../twentythirteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../twentythirteen/functions.php:97
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../twentythirteen/functions.php:231
+msgid "Main Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:241
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:243
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: ../twentythirteen/functions.php:270 ../twentytwelve/functions.php:287
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../twentythirteen/functions.php:274 ../twentytwelve/functions.php:288
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/functions.php:328 ../twentythirteen/functions.php:334
+#: ../twentytwelve/functions.php:370 ../twentytwelve/functions.php:373
+msgid ", "
+msgstr ""
+
+#: ../twentythirteen/functions.php:343 ../twentytwelve/functions.php:384
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:369 ../twentytwelve/content-aside.php:20
+#: ../twentytwelve/content-link.php:18 ../twentytwelve/content-quote.php:17
+#: ../twentytwelve/content-status.php:15
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../twentythirteen/header.php:43 ../twentytwelve/header.php:43
+msgid "Menu"
+msgstr ""
+
+#: ../twentythirteen/image.php:22
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: ../twentythirteen/image.php:39
+msgid "Full resolution"
+msgstr ""
+
+#: ../twentythirteen/image.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../twentythirteen/image.php:52
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/taxonomy-post_format.php:23
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: ../twentythirteen/inc/back-compat.php:37
+#: ../twentythirteen/inc/back-compat.php:47
+#: ../twentythirteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Thirteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentytwelve/author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:33
+msgid "Leave a reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:33
+msgid "1 Reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:33
+msgid "% Replies"
+msgstr ""
+
+#: ../twentytwelve/content-link.php:12
+msgid "Link"
+msgstr ""
+
+#: ../twentytwelve/content-none.php:17 ../twentytwelve/index.php:53
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../twentytwelve/content.php:16
+msgid "Featured post"
+msgstr ""
+
+#: ../twentytwelve/functions.php:242
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../twentytwelve/functions.php:244
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: ../twentytwelve/functions.php:252
+msgid "First Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:254 ../twentytwelve/functions.php:264
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr ""
+
+#: ../twentytwelve/functions.php:262
+msgid "Second Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:313
+msgid "Pingback:"
+msgstr ""
+
+#: ../twentytwelve/functions.php:313
+msgid "(Edit)"
+msgstr ""
+
+#: ../twentytwelve/functions.php:328
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: ../twentytwelve/functions.php:334
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../twentytwelve/functions.php:349
+msgid "Reply"
+msgstr ""
+
+#: ../twentytwelve/functions.php:390
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:392
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:394
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../twentytwelve/index.php:38
+msgid "No posts to display"
+msgstr ""
+
+#: ../twentytwelve/index.php:42
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../twentytwelve/search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
